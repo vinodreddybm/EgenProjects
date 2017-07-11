@@ -6,13 +6,14 @@ public class TestMain1 {
 
 	System.out.println("vinod reddy");
 
-	System.out.println("vinodbarla");
-	System.out.println("vinod reddy barla");
+	System.out.println("vinoa");
+	System.out.println("vinod ");
 
-	System.out.println("vinodbarla reddy");
+	System.out.println(" reddy");
+
+	
 	
 	System.out.println("sankeerth is waste fellow");
-	
 	
 
 	System.out.println("practicing git");
@@ -28,10 +29,14 @@ public class TestMain1 {
 
 	System.out.println("gitttt11111");
 	
+
 	System.out.println("hubbbbbbb");
 	
 	
 
-	}
+	
 
+
+	System.out.println("buffalo");
+}
 }
